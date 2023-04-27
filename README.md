@@ -5,6 +5,8 @@ Simply connect to your printer, upload your firmware code, select your motherboa
 
 It also supports PlatformIO so even 32 bits boards can be flashed!.
 
+**WARNING** This plugin does not work with host boards based on the ARMv7 architecture such as the Raspberry Pi 2.
+
 ## Screenshots
 
 ### Arduino
